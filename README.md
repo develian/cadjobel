@@ -53,14 +53,19 @@ Caso a quantidade de produtos no pedido seja muito grande, existe a opção de f
 Após o pedido ser feito, há a possibilidade de editá-lo, mudando status, cliente, endereço e total.
 
 ## procurar pedido no historico
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53953275/62909425-f2346a00-bd52-11e9-9a9c-c97068cbc4a0.gif">
 </p>
+
 ## perfil
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53953275/62909424-f1033d00-bd52-11e9-9c5e-f8bbe346c41f.png">
 </p>
+
 ## clientes
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53953275/62909413-e9439880-bd52-11e9-9360-47aecf434469.gif">
 </p>
