@@ -1,8 +1,11 @@
 # Cad Jobel
-Repositório de demonstração do meu app para a distribuidora de alimentos Jobel.
-O sistema é composto de um painel admin para web e um app android desenvolvido em JAVA. O sistema também conta com um banco de dados MySQL que é compartilhado pelo app e o painel.
+Repositório de demonstração do meu sistema para a distribuidora de alimentos Jobel.
+O sistema é composto de um painel admin para web e um app android desenvolvido em JAVA. O sistema também conta com um banco de dados MySQL que é compartilhado entre o app e o painel.
 
 # Aplicativo android
+
+Aplicativo usado para anotar pedidos e gerenciar os mesmos, abandonando assim o papel e a caneta usados comumente. 
+O app possui responsividade, se adequando as mais diversas dimensões de telas de dispositivos. O app possuí algumas funções como notificações (enviadas através do painel), capacidade de guardar um pedido em andamento para o caso do vendedor fechar a aplicação e quiser continuar mais tarde, mudança de tema (configurada através do painel), entre outras.
 
 ## Página de login
 
