@@ -6,7 +6,7 @@ O sistema é composto de um painel admin para web e um app android desenvolvido 
 ## Página de login
 
 <p align="center">
-<img src="(https://user-images.githubusercontent.com/53953275/62909423-f06aa680-bd52-11e9-8f60-2f9b2d334ea4.gif">
+<img src="https://user-images.githubusercontent.com/53953275/62909423-f06aa680-bd52-11e9-8f60-2f9b2d334ea4.gif">
 </p>
 
 Página de login com o logo que altera para se ajustar a tela quando o teclado é mostrado.
