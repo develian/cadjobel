@@ -52,20 +52,27 @@ Caso a quantidade de produtos no pedido seja muito grande, existe a opção de f
 
 Após o pedido ser feito, há a possibilidade de editá-lo, mudando status, cliente, endereço e total.
 
-## procurar pedido no historico
+## Procurar pedido no historico
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53953275/62909425-f2346a00-bd52-11e9-9a9c-c97068cbc4a0.gif">
 </p>
 
-## perfil
+Pedidos podem ser buscados pelo número ou nome do cliente.
+
+## Clientes
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53953275/62909413-e9439880-bd52-11e9-9360-47aecf434469.gif">
+</p>
+
+O app conta com uma lista de clientes obtida do banco de dados. Assim como no histórico de pedidos, há também a possibilidade de buscar por um cliente através da barra de busca.
+
+## Perfil
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53953275/62909424-f1033d00-bd52-11e9-9c5e-f8bbe346c41f.png">
 </p>
 
-## clientes
+Cada funcionário conta com um perfil, previavemente cadastrado no painel admin. Além das informações pessoais, o perfil do usuário conta com o número de vendas e a comissão gerada através das mesmas. A porcentagem de comissão pode ser alterada no perfil do funcionário através do painel.
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/53953275/62909413-e9439880-bd52-11e9-9360-47aecf434469.gif">
-</p>
