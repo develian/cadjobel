@@ -124,11 +124,15 @@ Nota: O controle de estoque também ocorre de forma automática após cada pedid
 <img src="https://user-images.githubusercontent.com/53953275/62969986-ceb9ff80-bde4-11e9-9dc8-d401773d480d.png">
 </p>
 
+Autenticação do painel. Apenas administradores cadastrados poderão ter acesso.
+
 ## Home
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53953275/62969906-a7fbc900-bde4-11e9-809c-f93200625126.png">
 </p>
+
+Assim como o app, o painel também conta com uma dashboard contendo algumas estatísticas.
 
 ## Pedidos
 
@@ -136,11 +140,15 @@ Nota: O controle de estoque também ocorre de forma automática após cada pedid
 <img src="https://user-images.githubusercontent.com/53953275/62969984-ce216900-bde4-11e9-888c-d731df4d2385.png">
 </p>
 
+Na página de pedidos estão disponíveis ações como editar, remover, visualizar e enviar notificação rápida ao vendedor relacionada ao pedido.
+
 ## Estoque
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53953275/62970174-42f4a300-bde5-11e9-83e8-6727beb08f5a.png">
 </p>
+
+Página reponsável pelo gerenciamento de produtos no estoque.
 
 ## Clientes
 
@@ -148,11 +156,15 @@ Nota: O controle de estoque também ocorre de forma automática após cada pedid
 <img src="https://user-images.githubusercontent.com/53953275/62970173-42f4a300-bde5-11e9-871b-5f80171a5cec.png">
 </p>
 
+Página reponsável pelo gerenciamento de clientes.
+
 ## Notificações
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53953275/62969899-a3371500-bde4-11e9-9dbc-7f8e8d0f366b.png">
 </p>
+
+Nesta página o administrador pode enviar para todos funcionários modelos de notificações previamente adicionadas ou criar novos. Notificações com imagens também são possíveis.
 
 ## Funcionários
 
@@ -160,14 +172,20 @@ Nota: O controle de estoque também ocorre de forma automática após cada pedid
 <img src="https://user-images.githubusercontent.com/53953275/62970170-425c0c80-bde5-11e9-9164-534bcd98a2ef.png">
 </p>
 
+Aqui é onde será registrado os funcionários que terão acesso ao app. Informações do perfil, login e senha, poderão ser alterados a qualquer momento.
+
 ## Administradores
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53953275/62970168-425c0c80-bde5-11e9-9de0-45230c6b4db8.png">
 </p>
 
+Nesta página fica a função de alterar, remover ou adicionar novos administradores.
+
 ## Configurações
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53953275/62972923-7e926b80-bdeb-11e9-9b26-37a6ea310b57.png">
 </p>
+
+Nesta página é onde se encontra as diversas configurações do painel e do app.
