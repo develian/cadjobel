@@ -169,5 +169,5 @@ Nota: O controle de estoque também ocorre de forma automática após cada pedid
 ## Configurações
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/53953275/62970165-425c0c80-bde5-11e9-9790-1403e818711a.png">
+<img src="https://user-images.githubusercontent.com/53953275/62972923-7e926b80-bdeb-11e9-9b26-37a6ea310b57.png">
 </p>
