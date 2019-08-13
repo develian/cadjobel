@@ -2,6 +2,7 @@
 Repositório de demonstração do meu app para a distribuidora de alimentos Jobel.
 O sistema é composto de um painel admin para web e um app android desenvolvido em JAVA. O sistema também conta com um banco de dados MySQL que é compartilhado pelo app e o painel.
 
+# Aplicativo android
 
 ## Página de login
 
