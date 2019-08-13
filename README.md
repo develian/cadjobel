@@ -80,3 +80,94 @@ O app conta com uma lista de clientes obtida do banco de dados. Assim como no hi
 
 Cada funcionário conta com um perfil, previavemente cadastrado no painel admin. Além das informações pessoais, o perfil do usuário conta com o número de vendas e a comissão gerada através das mesmas. A porcentagem de comissão pode ser alterada no perfil do funcionário através do painel.
 
+## Notificações
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53953275/62964643-c7d9bf80-bdd9-11e9-9d92-77b99d2cb833.png">
+</p>
+
+O app e o painel contam com um sistema de notificações, onde o painel envia e o app recebe. Há possibilidade de enviar notificações criadas na hora e também usar templates previamente definidos.
+
+## Temas
+
+<img width="200" height="355" src="https://user-images.githubusercontent.com/53953275/62966538-9ebb2e00-bddd-11e9-9528-b66b0e50358e.png"> <img width="200" height="355" src="https://user-images.githubusercontent.com/53953275/62966540-9ebb2e00-bddd-11e9-9e38-edef4871897c.png">
+<img width="200" height="355" src="https://user-images.githubusercontent.com/53953275/62966542-9f53c480-bddd-11e9-875a-451ca086959f.png">
+<img width="200" height="355" src="https://user-images.githubusercontent.com/53953275/62966543-9fec5b00-bddd-11e9-91e7-18b652f5105b.png">
+<img width="200" height="355" src="https://user-images.githubusercontent.com/53953275/62966547-9fec5b00-bddd-11e9-9794-befbd5748ee2.png">
+<img width="200" height="355" src="https://user-images.githubusercontent.com/53953275/62966548-a084f180-bddd-11e9-99b0-978b33c6831c.png">
+<img width="200" height="355" src="https://user-images.githubusercontent.com/53953275/62966552-a11d8800-bddd-11e9-939c-43c3a3da9d3b.png">
+<img width="200" height="355" src="https://user-images.githubusercontent.com/53953275/62966554-a1b61e80-bddd-11e9-9c1b-11a99d0fdfbd.png">
+<img width="200" height="355" src="https://user-images.githubusercontent.com/53953275/62966556-a24eb500-bddd-11e9-9f1d-5154d2d4957b.png">
+<img width="200" height="355" src="https://user-images.githubusercontent.com/53953275/62966557-a24eb500-bddd-11e9-89d0-06baa06d07fe.png">
+<img width="200" height="355" src="https://user-images.githubusercontent.com/53953275/62966558-a2e74b80-bddd-11e9-93ee-a53d536a67b2.png">
+<img width="200" height="355" src="https://user-images.githubusercontent.com/53953275/62967437-556bde00-bddf-11e9-9764-7ee3c3f9787f.png">
+
+O app possui no 12 temas no total, incluindo o padrão, que podem ser alterados via painel.
+
+## Resposividade
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53953275/62963059-9e6b6480-bdd6-11e9-89c7-7cf59cea0ce1.png">
+</p>
+
+O app se adapta a diversas telas, desde telas pequenas de 4 polegadas até telas maiores de 7 polegadas usadas em tablet.
+
+# Painel admin
+
+É através do painel que acontecem os cadastros de produtos, clientes e funcionários, controle e cadastro de pedidos, controle de estoque, envio de notificações e diversas outras configurações como o tema do painel e do app.
+
+Nota: O controle de estoque também ocorre de forma automática após cada pedido feito tanto no app quanto no painel.
+
+## Página de login
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53953275/62969986-ceb9ff80-bde4-11e9-9dc8-d401773d480d.png">
+</p>
+
+## Home
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53953275/62969906-a7fbc900-bde4-11e9-809c-f93200625126.png">
+</p>
+
+## Pedidos
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53953275/62969984-ce216900-bde4-11e9-888c-d731df4d2385.png">
+</p>
+
+## Estoque
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53953275/62970174-42f4a300-bde5-11e9-83e8-6727beb08f5a.png">
+</p>
+
+## Clientes
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53953275/62970173-42f4a300-bde5-11e9-871b-5f80171a5cec.png">
+</p>
+
+## Notificações
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53953275/62969899-a3371500-bde4-11e9-9dbc-7f8e8d0f366b.png">
+</p>
+
+## Funcionários
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53953275/62970170-425c0c80-bde5-11e9-9164-534bcd98a2ef.png">
+</p>
+
+## Administradores
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53953275/62970168-425c0c80-bde5-11e9-9de0-45230c6b4db8.png">
+</p>
+
+## Configurações
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53953275/62970165-425c0c80-bde5-11e9-9790-1403e818711a.png">
+</p>
