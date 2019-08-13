@@ -104,7 +104,7 @@ O app e o painel contam com um sistema de notificações, onde o painel envia e 
 
 O app possui no 12 temas no total, incluindo o padrão, que podem ser alterados via painel.
 
-## Resposividade
+## Responsividade
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/53953275/62963059-9e6b6480-bdd6-11e9-89c7-7cf59cea0ce1.png">
@@ -172,7 +172,7 @@ Nesta página o administrador pode enviar para todos funcionários modelos de no
 <img src="https://user-images.githubusercontent.com/53953275/62970170-425c0c80-bde5-11e9-9164-534bcd98a2ef.png">
 </p>
 
-Aqui é onde será registrado os funcionários que terão acesso ao app. Informações do perfil, login e senha, poderão ser alterados a qualquer momento.
+Aqui é onde será registrado os funcionários que terão acesso ao app. Informações do perfil, login e senha, poderão ser alterados a qualquer momento. Através daqui também é possível enviar notificações para o usuário em específico.
 
 ## Administradores
 
